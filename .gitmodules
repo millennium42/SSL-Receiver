@@ -1,0 +1,3 @@
+[submodule "Core/Inc/Comm"]
+	path = Core/Inc/Comm
+	url = https://github.com/millennium42/Comm.git
