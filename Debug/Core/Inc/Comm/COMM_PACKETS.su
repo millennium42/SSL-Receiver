@@ -1,0 +1,5 @@
+../Core/Inc/Comm/COMM_PACKETS.c:5:6:Comm_Packets_Create_VSSSCommand	24	static
+../Core/Inc/Comm/COMM_PACKETS.c:20:6:Comm_Packets_Create_SSLCommand	24	static
+../Core/Inc/Comm/COMM_PACKETS.c:35:6:Comm_Packets_Create_DebugText	24	static
+../Core/Inc/Comm/COMM_PACKETS.c:52:6:Comm_Packets_Create_VSSTelemetry	24	static
+../Core/Inc/Comm/COMM_PACKETS.c:67:6:Comm_Packets_Create_SSLTelemetry	24	static

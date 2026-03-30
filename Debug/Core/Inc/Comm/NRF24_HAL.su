@@ -1,0 +1,8 @@
+../Core/Inc/Comm/NRF24_HAL.c:3:6:NRF24_HAL_CE_Enable	8	static
+../Core/Inc/Comm/NRF24_HAL.c:7:6:NRF24_HAL_CE_Disable	8	static
+../Core/Inc/Comm/NRF24_HAL.c:11:6:NRF24_HAL_CS_Select	8	static
+../Core/Inc/Comm/NRF24_HAL.c:15:6:NRF24_HAL_CS_UnSelect	8	static
+../Core/Inc/Comm/NRF24_HAL.c:19:19:NRF24_HAL_SPI_Transmit	24	static
+../Core/Inc/Comm/NRF24_HAL.c:23:19:NRF24_HAL_SPI_Receive	24	static
+../Core/Inc/Comm/NRF24_HAL.c:27:6:NRF24_HAL_Delay	16	static
+../Core/Inc/Comm/NRF24_HAL.c:31:10:NRF24_HAL_GetTick	8	static

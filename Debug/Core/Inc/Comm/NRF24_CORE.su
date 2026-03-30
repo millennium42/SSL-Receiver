@@ -1,0 +1,16 @@
+../Core/Inc/Comm/NRF24_CORE.c:5:6:nrf24_WriteReg	24	static
+../Core/Inc/Comm/NRF24_CORE.c:15:6:nrf24_WriteRegMulti	24	static
+../Core/Inc/Comm/NRF24_CORE.c:25:9:nrf24_ReadReg	24	static
+../Core/Inc/Comm/NRF24_CORE.c:37:6:nrf24_ReadReg_Multi	24	static
+../Core/Inc/Comm/NRF24_CORE.c:46:6:nrfsendCmd	16	static
+../Core/Inc/Comm/NRF24_CORE.c:53:6:nrf24_reset_registers	32	static
+../Core/Inc/Comm/NRF24_CORE.c:97:6:nrf24_clear_interrupts	16	static
+../Core/Inc/Comm/NRF24_CORE.c:103:6:nrf24_flush_tx	8	static
+../Core/Inc/Comm/NRF24_CORE.c:107:6:nrf24_flush_rx	8	static
+../Core/Inc/Comm/NRF24_CORE.c:112:6:NRF24_Init	16	static
+../Core/Inc/Comm/NRF24_CORE.c:144:6:NRF24_TxMode	24	static
+../Core/Inc/Comm/NRF24_CORE.c:165:9:NRF24_Transmit	64	static
+../Core/Inc/Comm/NRF24_CORE.c:213:6:NRF24_RxMode	24	static
+../Core/Inc/Comm/NRF24_CORE.c:240:9:isDataAvailable	24	static
+../Core/Inc/Comm/NRF24_CORE.c:248:6:NRF24_Receive	24	static
+../Core/Inc/Comm/NRF24_CORE.c:263:6:NRF24_ReadAll	40	static
