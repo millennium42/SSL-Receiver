@@ -1,3 +1,0 @@
-../Core/Src/xdrive_kin.c:4:14:wheel_speed	2
-../Core/Src/xdrive_kin.c:23:6:xdrive_init_default	1
-../Core/Src/xdrive_kin.c:40:6:xdrive_speeds	4

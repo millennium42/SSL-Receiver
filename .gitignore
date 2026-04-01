@@ -1,0 +1,45 @@
+# =========================
+# Artefatos de Compilação C/C++
+# =========================
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.mk
+
+# =========================
+# STM32CubeIDE / Eclipse
+# =========================
+.metadata/
+.settings/
+*.launch
+
+# Nota: O ficheiro .mxproject é gerado pelo CubeMX. Podes mantê-lo ou ignorá-lo.
+# Se o quiseres ignorar, retira o # da linha abaixo:
+# .mxproject
+
+# =========================
+# Ficheiros do Sistema Operativo
+# =========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN/

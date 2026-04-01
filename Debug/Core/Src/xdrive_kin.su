@@ -1,3 +1,0 @@
-../Core/Src/xdrive_kin.c:4:14:wheel_speed	72	static
-../Core/Src/xdrive_kin.c:23:6:xdrive_init_default	48	static
-../Core/Src/xdrive_kin.c:40:6:xdrive_speeds	48	static
