@@ -43,3 +43,5 @@ ehthumbs_vista.db
 *.stackdump
 Desktop.ini
 $RECYCLE.BIN/
+SSL-Receiver.launch
+.settings/language.settings.xml
